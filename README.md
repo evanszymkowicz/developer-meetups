@@ -8,4 +8,7 @@ To start after cloning the repository (On a Mac):
 
 1) To launch the Loopback explorer:
 `brew services start mongo`
+
 `node .`
+
+Preloaded database in the .json file was replaced with a shorthand `db`

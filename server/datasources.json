@@ -3,9 +3,9 @@
     "host": "localhost",
     "port": 27017,
     "url": "",
-    "database": "developer-meetups-app",
+    "database": "meetups-app",
     "password": "",
-    "name": "db",
+    "name": "mongoDS",
     "user": "",
     "connector": "mongodb"
   }
