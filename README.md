@@ -12,3 +12,8 @@ To start after cloning the repository (On a Mac):
 `node .`
 
 Preloaded database in the .json file was replaced with a shorthand `db`
+
+## Application architecture
+
+Back end code (Mongo database and the Loopback framework) exist in the common folder
+Front end was compiled using Create React App and bootstrapped using MateralizeCSS
