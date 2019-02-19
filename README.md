@@ -12,6 +12,7 @@ To start after cloning the repository (On a Mac):
 `node .`
 
 Preloaded database in the .json file was replaced with a shorthand `db`
+Properly formatted mongoose schema data saved in the explorer will load in the local .json file
 
 ## Application architecture
 
